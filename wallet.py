@@ -1,18 +1,3 @@
-# Blockchain-Python-Homework19
-Homework 19 - Blockchain-Python
-
-
-Once you create the wallet in a .py file, you run that in the Anaconda prompt and use this to send transactions.
-
-The wallet created in a .py file contains contains three main functions. One to convert the private key of the wallet to be used with ETH and the testnet for Bitcoin; another one to input all the elements into the create transaction funciton and lastly one to send the amount of crytpo.
-
-Unfortunately i could not get it to work and below is the function for the wallet and a screenshot of the error.  
-
-![deployed](Resources/anaconda_prompt.png)   
-
-
-### Code below
-
 import subprocess
 import json
 from constants import *
